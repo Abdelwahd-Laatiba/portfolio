@@ -1,0 +1,30 @@
+.footer {
+    background-color: #231F20;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+}
+.footer img {
+    max-width: 100%;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.footer .container .row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer .container .row .images{
+    padding: 1rem;
+}
+.footer .container .row p {
+    color: black;
+    font-size: 1rem;
+    font-weight: bolder;
+    font-style: italic;
+    padding-top: 1rem;
+}

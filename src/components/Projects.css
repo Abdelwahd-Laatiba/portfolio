@@ -1,0 +1,30 @@
+.projects {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+.projects .container .pad {
+    margin: 20px;
+}
+.projects> h1 {
+    font-size: 3rem;
+    margin: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+.projects h3 {
+    font-size: 2rem;
+}
+.projects .container .row {
+    color: black;
+    margin-bottom: 50px;
+    box-shadow: 0px 5px 4px -4px #333;
+}
+
+.projects .container .row img {
+    max-width: 100%;
+    height: auto;
+}
+.projects .container .row button {
+    margin: 20px;
+}

@@ -1,0 +1,27 @@
+.cover {
+    width: 100%;
+    height: 90vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 span {
+    color: #1EC9E8;
+}
+button {
+    padding: 10px;
+    border: solid 2px #1EC9E8;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bold;
+    outline: none;
+    color: #1EC9E8;
+}
+button:hover {
+    background-color: #1EC9E8;
+    cursor: pointer;
+    color: white;
+}

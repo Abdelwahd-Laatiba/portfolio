@@ -1,0 +1,34 @@
+.container {
+    text-align: center;
+    color: aliceblue;
+}
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+.container h1 {
+    padding: 20px;
+}
+.about {
+    background-color: #010202;   
+}
+.about .pad {
+    padding: 20px;
+}
+/* .about h1 {
+    color: aqua;
+} */
+.about button {
+    padding: 10px;
+    border: solid 2px #1EC9E8;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bold;
+    outline: none;
+    color: #1EC9E8;
+}
+.about button:hover {
+    color: white;
+}
+
+
